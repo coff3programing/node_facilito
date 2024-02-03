@@ -1,0 +1,19 @@
+{
+  "name": "hello_node",
+  "version": "0.0.0",
+  "description": "Learning Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coff3programing/node_facilito.git"
+  },
+  "author": "Miguel Calero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coff3programing/node_facilito/issues"
+  },
+  "homepage": "https://github.com/coff3programing/node_facilito#readme"
+}
